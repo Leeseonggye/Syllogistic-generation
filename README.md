@@ -31,4 +31,5 @@ bash calculate_score_bart.sh
 ```
 
 We can provide not only BART but also T5 and GPT2. You can simply get the result of T5 and GPT2 to replace scripts name in 'bart' to 't5' or 'gpt2'.
+
 Ex) bash scripts/bart_step1_augement_data_generation.sh → bash scripts/t5_step1_augement_data_generation.sh
